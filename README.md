@@ -16,7 +16,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   width="100%">
 </p>
 
+<p align="center">Acesse o projeto<a href="https://dev-links-ljlmbnvii-simonefelipe.vercel.app/"> aqui! 😸</a></p>
 <br>
+
 
 ## 🚀 Tecnologias
 
